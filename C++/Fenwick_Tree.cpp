@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> 
 #include<string.h>
 #include<tuple>
 #define all(c) c.begin(),c.end()
