@@ -1,5 +1,5 @@
 def binarySearch(arr,n,a):
-    top=0
+    top=1
     bot=n-1
     while top<=bot:
         mid=int((top+bot)/2);
