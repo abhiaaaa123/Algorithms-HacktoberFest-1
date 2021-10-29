@@ -76,7 +76,7 @@ int main(){
 //Choice 2 for find sum in range l to r
 
         if(choice==2){
-            int l,r;
+            int l,r;     
             cin>>l>>r;
             cout<<range_qurey(bit,l,r);
         }
