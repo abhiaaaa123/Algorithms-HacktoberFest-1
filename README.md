@@ -5,7 +5,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 # Table of Algorithms
 
 `B` - Beginner, `A` - Advanced
-
+efew
 ## C++
 
 - `B` [Factorial](C++/factorial.cpp)
