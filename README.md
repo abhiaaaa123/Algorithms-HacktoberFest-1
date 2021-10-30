@@ -1,6 +1,6 @@
 # Algorithms-HacktoberFesta
 
-Write Algorithm in any language and contribute to HacktoberFest
+Write Algorithm in any language and contribute to HacktoberFes t
 
 # Table of Algorithms
 
