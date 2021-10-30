@@ -2,7 +2,7 @@
 
 Write Algorithm in any language and contribute to HacktoberFes t
 
-# Table of Algorithms
+# Table of Algorithms        
 
 `B` - Beginner, `A` - Advanced
 efew
@@ -10,7 +10,7 @@ efew
 
 - `B` [Factorial](C++/factorial.cpp)
 - `A` [KMP Algorithm](<C++/KMP(string-matching-algorithm).cpp>)
-- `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)
+- `A` [N-Queen-Problem](C++/N-Queen-Problem.cpp)     
 - `A` [Tower-of-Hanoi](C++/Tower-of-Hanoi.cpp)
 - `B` [Palindrome](C++/Palindrome.cpp)
 - `A` [0/1 Knapsack](C++/0-1-Knapsack.cpp)
