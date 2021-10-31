@@ -10,7 +10,7 @@ end
 
 class LinkedList
 
-    def initialize val
+    def initialize valj
         @head = Node.new(val,nil)
     end
     
