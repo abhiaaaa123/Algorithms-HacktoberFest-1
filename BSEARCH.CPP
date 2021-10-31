@@ -3,7 +3,7 @@
 int Bsearch(int[ ],int,int);
 void main()
 {    clrscr();
-     int AR[50],item,n,index;
+     int AR[50],item,n,indexf;
      cout<<"Enter desired array size(max. 50):) ";
      cin>>n;
      cout<<"Enter array elements:\n";
