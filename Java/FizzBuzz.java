@@ -5,6 +5,6 @@ public String fizzBuzz(int number) {
         return "buzz";
     } else if (number % 3 == 0) {
         return "fizz";
-    }
+    } 
     return String.valueOf(number);
 }
